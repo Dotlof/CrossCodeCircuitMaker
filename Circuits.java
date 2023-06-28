@@ -44,7 +44,7 @@ class Circuits extends PApplet{
         updatePixels();
     }
 
-    int size = 21;
+    int size = 15;
 
     class MidPoint {
         Point coord;
